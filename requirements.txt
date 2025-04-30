@@ -19,7 +19,7 @@ motor
 aiohttp
 aiofiles
 pytz
-ffmpeg=4.2.1
+ffmpeg
 ffprobe==2.1.2
 umongo==3.1.0
 speedtest-cli
